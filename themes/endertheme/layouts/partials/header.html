@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="{{ .Site.Params.description }}">
+
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="{{ .Site.BaseURL }}">
+        <meta property="og:image" content="{{ .Site.BaseURL }}images/jupiterwhite7.png }}">
+        <meta property="og:site_name" content="{{ .Title }}">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:description" content="{{ .Site.Params.description }}">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+        <meta name="twitter:title" content="{{ .Title }}">
+        <meta name="twitter:description" content="{{ .Site.Params.description }}">
+        <meta name="twitter:image" content="{{ .Site.BaseURL }}images/jupiterwhite7.png }}">
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Grenze" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Uncial+Antiqua" rel="stylesheet"> 
+
+        <script type="text/javascript">
+        var sc_project=12172172; 
+        var sc_invisible=1; 
+        var sc_security="cc5c6dea"; 
+        </script>
+        <script type="text/javascript"
+        src="https://www.statcounter.com/counter/counter.js"
+        async></script>
+
+        <title>{{.Title}}</title>
+
+        <link rel="stylesheet" href="/css/stylesheet.css">
+    </head>
+    <body>
+        <section id="page-title">
+            <a href="{{ .Site.BaseURL }}"><img src={{"/images/jupiterwhite7.png"}} class="logo"></a>
+        </section>
+        <section id="blurb">
+            <span id="float">{{ .Site.Params.description | default "A blog"}}</span>
+            <span id="link"><a href={{ .Site.Params.home }}>{{ .Site.Params.urlname | default "Your Name"}}</a></span>
+        </section>
+
