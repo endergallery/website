@@ -1,5 +1,5 @@
 ---
-title: "Cfp"
+title: "Ender Gallery | Call for Proposals"
 date: 2020-12-16T21:22:49+01:00
 draft: false
 ---
