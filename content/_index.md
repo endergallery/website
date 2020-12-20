@@ -11,7 +11,7 @@ Ender Gallery is an exhibition space and artist residency that exists inside the
 
 ## About the residency
 
-Partnering with the MacKenzie Art Gallery and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming. We have four residencies planned for 2021. Each residency will be 2 months long, followed by a two month exhibition period and will pay an artist fee of 1600 CAD. 
+Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming. We have four residencies planned for 2021. Each residency will be 2 months long, followed by a two month exhibition period and will pay an artist fee of 1600 CAD. 
 
 Available residency periods are Mar-Apr, May-Jun, Jul-Aug, and Sept-Oct. Each resident will create an artwork/installation during that residency period that will be hosted on our server in a two-month public exhibition. Each exhibition will have one hosted opening, but can optionally include other events during other performances or exhibition tours.
 
