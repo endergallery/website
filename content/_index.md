@@ -21,7 +21,7 @@ While we love beautiful builds, we are interested especially in proposals that e
 
 ## To Apply
 
-Please email the following to info@ender.gallery by Jan 31, 2021
+Please email the following to info@ender.gallery by midnight Jan 31, 2021 CST (GMT-6)
 
  * Name, location, and preferred pronouns
  * Preferred residency period (Mar-Apr, May-Jun, Jul-Aug, or Sept-Oct - we may not be able to provide your most preferred period, but will coordinate as best we can)
