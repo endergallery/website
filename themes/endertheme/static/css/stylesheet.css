@@ -36,6 +36,12 @@ h2 {
     background: rgba(0, 0, 0, 0.75);
 }
 
+#content img {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
 #link {
     float: right;
 }

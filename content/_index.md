@@ -21,7 +21,7 @@ While we love beautiful builds, we are interested especially in proposals that e
 
 ## To Apply
 
-Please email the following to info@ender.gallery by Jan 15, 2021
+Please email the following to info@ender.gallery by Jan 31, 2021
 
  * Name, location, and preferred pronouns
  * Preferred residency period (Mar-Apr, May-Jun, Jul-Aug, or Sept-Oct - we may not be able to provide your most preferred period, but will coordinate as best we can)
@@ -31,3 +31,5 @@ Please email the following to info@ender.gallery by Jan 15, 2021
  * Online or PDF portfolio 
 
 Ender Gallery and the MacKenzie Art Gallery are committed to maintaining an inclusive community that welcomes applications from persons of all genders, races, ages, and abilities. We are excited to read your proposals!
+
+![Mackenzie Art Gallery logo](/MAG_Logo.png)
