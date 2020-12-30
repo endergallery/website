@@ -2,3 +2,7 @@ baseURL = "https://ender.gallery/"
 languageCode = "en-us"
 title = "Ender Gallery"
 theme = "endertheme"
+[params]
+  sitename = "Ender Gallery"
+  description = "Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft."
+
