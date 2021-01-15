@@ -19,6 +19,8 @@ The emergent possibilities within Minecraft are arguably as rich as some game en
 
 While we love beautiful builds, we are interested especially in proposals that extend the possibilities of play, that bring elements from outside the game world to bear, or that consider the game as an expressive medium. The call is open to video, media, game, and performance artists who are interested in pushing the medium’s potential. For this residency tranche, we are particularly interested in proposals exploring Indigenous sovereignty, storytelling, simulation, colonialism, alternative economies, materiality, fandom, and digital ontologies - but we look forward to being surprised.
 
+We're also excited to share that we’ll be part of the 2021 programming of A MAZE, an international festival focusing on arthouse games and playful media, this July! The first two residents will have the opportunity to participate in a panel discussing their work, and the gallery will host exhibition walkthroughs on the A MAZE live stream this Summer (with a follow-up for our second two residents in 2022!)
+
 ## To Apply
 
 Please email the following to info@ender.gallery by midnight Jan 31, 2021 CST (GMT-6)
@@ -32,4 +34,10 @@ Please email the following to info@ender.gallery by midnight Jan 31, 2021 CST (G
 
 Ender Gallery and the MacKenzie Art Gallery are committed to maintaining an inclusive community that welcomes applications from persons of all genders, races, ages, and abilities. We are excited to read your proposals!
 
-![Mackenzie Art Gallery logo](/MAG_Logo.png)
+## Partners
+
+<img src="/MAG_Logo.png" alt="Mackenzie Art Gallery logo" class="partner">
+
+## Friends
+
+<img src="/invert_AMAZE.png" alt="A MAZE Festival logo" class="friend">

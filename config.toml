@@ -6,4 +6,5 @@ theme = "endertheme"
   sitename = "Ender Gallery"
   twitter = "@isthisanart_"
   description = "Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft."
-
+[markup.goldmark.renderer]
+  unsafe= true
