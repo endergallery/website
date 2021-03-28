@@ -42,6 +42,14 @@ h2 {
     display: block;
 }
 
+.full {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+
 .friend {
     width: 30%;
     margin: auto;
