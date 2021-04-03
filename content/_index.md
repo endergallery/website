@@ -11,9 +11,9 @@ Ender Gallery is an exhibition space and artist residency that exists inside the
 
 Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming! We have four residencies planned for 2021, featuring Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
-## Upcoming Events
+## Past Events
 
-<img src="/Cat_Haines_Femme.png" alt="Screenshot of the work in progress by Cat Haines on the Ender Server, this shot shows painted fingernails and a Minecraft book discussing the concept 'femme'" class="full">
+<iframe class="full video" src="https://www.youtube.com/embed/MQGTgV6xWRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Open Studio : March 31 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
 
