@@ -17,7 +17,9 @@ Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated 
 
 ### Open Studio : April 15 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
 
-On April 15, join Cat Haines and Evie Ruddy for a livestreamed open studio event where they will engage in an intimate conversation inside Haines’ Minecraft exhibit. Drawing on their art practices and scholarly work, Cat Haines and Evie Ruddy will discuss transfeminist and bodily interventions into second wave feminist theory, how each conceives of audience in their work, ways of disrupting cisnormative visual logics, and the role of affect in relation to desire.
+On April 15, join Cat Haines and a special guest, Evie Ruddy, for a livestreamed open studio event where they will engage in an intimate conversation inside Haines’ Minecraft exhibit. Drawing on their art practices and scholarly work, Cat Haines and Evie Ruddy will discuss transfeminist and bodily interventions into second wave feminist theory, how each conceives of audience in their work, ways of disrupting cisnormative visual logics, and the role of affect in relation to desire. 
+
+We will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts!
 
 Evie Ruddy (they/them) ([@eviejohnny](https://twitter.com/eviejohnny)) is a socially engaged digital storyteller and PhD student in Cultural Mediations at Carleton University. As a PhD Fellow with Carleton’s Transgender Media Lab, Evie is helping to develop an online database of audiovisual works made by transgender, non-binary, Two Spirit, intersex, and gender non-conforming filmmakers. Evie is also researching the ethics of documenting trans bodies. They are particularly interested in the role of improvisation for fostering productive spaces for trans collaborators to exercise agency over how they are represented.
 
@@ -27,7 +29,7 @@ Evie Ruddy (they/them) ([@eviejohnny](https://twitter.com/eviejohnny)) is a soci
 
 ### Open Studio : March 31 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
 
-Ender Gallery is pleased to invite you to join our first public event! On International Trans Day of Visibility (Wednesday, March 31), join current resident Cat Haines and the Ender curators for a livestreamed open studio event where Haines will discuss her work in progress. We will stream simulataneously to Haines's personal twitch, and the Mackenzie Art Gallery's social media, including its Facebook, YouTube and Twitch accounts!
+Ender Gallery is pleased to invite you to join our first public event! On International Trans Day of Visibility (Wednesday, March 31), join current resident Cat Haines and the Ender curators for a livestreamed open studio event where Haines will discuss her work in progress. 
 
 ## Current Resident
 
