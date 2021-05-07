@@ -13,19 +13,27 @@ Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated 
 
 ## Upcoming Events
 
-<img src="/Cat_Haines_Pussy_Entrance.png" alt="Screenshot of the large-scale entrance to the art gallery/reconstruction of Haines's vulva and vagina in Minecraft" class="full">
+<img src="/Cat_Haines_exhibition_flyer.jpg" alt="Flyer for the (g)Ender Gallery opening, showing the entrance to the art gallery/reconstruction of Haines's vulva and vagina in Minecraft in front of a pink sunset, with exhibition opening details in text superimposed" class="full">
 
-### Open Studio : April 15 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
+### Exhibition Opening : May 8 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
 
-On April 15, join Cat Haines and a special guest, Evie Ruddy, for a livestreamed open studio event where they will engage in an intimate conversation inside Haines’ Minecraft exhibit. Drawing on their art practices and scholarly work, Cat Haines and Evie Ruddy will discuss transfeminist and bodily interventions into second wave feminist theory, how each conceives of audience in their work, ways of disrupting cisnormative visual logics, and the role of affect in relation to desire. 
+Please join us for our first exhibition opening, as well as our first live event on the server!
 
-We will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts!
+Presenting (g)Ender Gallery, a solo exhibition by Cat Haines. (g)Ender Gallery features a monumental reconstruction of Haines' surgically-constructed vagina that contains an art gallery of images and texts reflecting on and celebrating moments from her transition. The project is an ironic and playful transfeminist intervention into yonic art canon that centers trans joy and explores the possibilities of queer and trans intimacies in digital spaces.
 
-Evie Ruddy (they/them) ([@eviejohnny](https://twitter.com/eviejohnny)) is a socially engaged digital storyteller and PhD student in Cultural Mediations at Carleton University. As a PhD Fellow with Carleton’s Transgender Media Lab, Evie is helping to develop an online database of audiovisual works made by transgender, non-binary, Two Spirit, intersex, and gender non-conforming filmmakers. Evie is also researching the ethics of documenting trans bodies. They are particularly interested in the role of improvisation for fostering productive spaces for trans collaborators to exercise agency over how they are represented.
+On Saturday May 8, at 1:00 pm Regina-time and 9:00 pm Berlin-time, ee will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts. It will also be open for live guests to join us in Minecraft. In order to join in-game, attendees will need a licensed copy of Minecraft (Java edition) - we will post further instructions and the server address shortly before the event!
 
 ## Past Events
 
-<iframe class="full video" src="https://www.youtube.com/embed/MQGTgV6xWRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Open Studio : April 15 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
+
+<iframe class="full video" src="https://www.youtube.com/embed/5XgDd22vmnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+On April 15, join Cat Haines and a special guest, Evie Ruddy, for a livestreamed open studio event where they will engage in an intimate conversation inside Haines’ Minecraft exhibit. Drawing on their art practices and scholarly work, Cat Haines and Evie Ruddy will discuss transfeminist and bodily interventions into second wave feminist theory, how each conceives of audience in their work, ways of disrupting cisnormative visual logics, and the role of affect in relation to desire. 
+
+Evie Ruddy (they/them) ([@eviejohnny](https://twitter.com/eviejohnny)) is a socially engaged digital storyteller and PhD student in Cultural Mediations at Carleton University. As a PhD Fellow with Carleton’s Transgender Media Lab, Evie is helping to develop an online database of audiovisual works made by transgender, non-binary, Two Spirit, intersex, and gender non-conforming filmmakers. Evie is also researching the ethics of documenting trans bodies. They are particularly interested in the role of improvisation for fostering productive spaces for trans collaborators to exercise agency over how they are represented.
+
+<iframe class="full video" src="https://www.youtube.com/embed/NXfuRPeBMY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Open Studio : March 31 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
 
