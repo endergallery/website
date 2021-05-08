@@ -3,16 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ender.gallery/howtojoin/</loc>
+    <lastmod>2021-05-07T21:22:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ender.gallery/</loc>
     <lastmod>2020-12-16T21:22:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ender.gallery/_callforproposals/</loc>
+    <lastmod>2020-12-16T21:22:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ender.gallery/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ender.gallery/tags/</loc>
   </url>
   
 </urlset>

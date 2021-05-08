@@ -21,7 +21,9 @@ Please join us for our first exhibition opening, as well as our first live event
 
 (g)Ender Gallery is a solo exhibition of the work of Cat Haines, developed during her residency on the Ender Gallery Minecraft server. Combining photography, poetry, and monumental Minecraft builds, (g)Ender Gallery explores the platform’s potential for queer and trans intimacies. The exhibition is a playful transfeminist intervention into yonic art canon that uses worldbuilding as a means of trans agency. The body of work features a colossal reconstruction of the artist’s surgically-constructed vagina that contains a gallery of text and images that reflect upon moments of her transition. The project investigates the affordances of the Minecraft platform to reject a cisgender reading of transition, through recentering narratives of trans joy.
 
-On Saturday May 8, at 1:00 pm Regina-time and 9:00 pm Berlin-time, ee will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts. It will also be open for live guests to join us in Minecraft. In order to join in-game, attendees will need a licensed copy of Minecraft (Java edition) - we will post further instructions and the server address shortly before the event!
+On Saturday May 8, at 1:00 pm Regina-time and 9:00 pm Berlin-time, ee will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts. It will also be open for live guests to join us in Minecraft. In order to join in-game, attendees will need a licensed copy of Minecraft (Java edition)
+
+<a href="https://ender.gallery/howtojoin">HOW TO JOIN THE SERVER</a>
 
 ## Past Events
 

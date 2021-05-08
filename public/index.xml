@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cfp on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Cfp on My New Hugo Site</description>
+    <title>Ender Gallery</title>
+    <link>https://ender.gallery/</link>
+    <description>Recent content on Ender Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Dec 2020 21:22:49 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ender.gallery/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Join the Server</title>
+      <link>https://ender.gallery/howtojoin/</link>
+      <pubDate>Fri, 07 May 2021 21:22:49 +0100</pubDate>
+      
+      <guid>https://ender.gallery/howtojoin/</guid>
+      <description>How to Join You will need a licensed copy of Minecraft Java edition and the login details for your Minecraft account.
+Open the minecraft launcher, and verify that you are running the latest release, 1.16.5
+Click “Play” and wait for the game to load. Once loaded, select “Multiplayer”
+Click “Add Server”
+And fill out the server details as follows:
+The server should now appear looking something like this:
+And you’re ready to connect!</description>
+    </item>
+    
+    <item>
+      <title>Ender Gallery | Call for Proposals</title>
+      <link>https://ender.gallery/_callforproposals/</link>
+      <pubDate>Wed, 16 Dec 2020 21:22:49 +0100</pubDate>
+      
+      <guid>https://ender.gallery/_callforproposals/</guid>
+      <description>Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft.
+About the residency Partnering with the MacKenzie Art Gallery and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming: We have four residencies planned for 2021. Each residency will be 2 months long, followed by a two month exhibition period and will pay an artist fee of 1600 CAD.</description>
+    </item>
     
   </channel>
 </rss>
