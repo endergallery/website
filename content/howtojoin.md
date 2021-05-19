@@ -2,6 +2,7 @@
 title: "How to Join the Server"
 date: 2021-05-07T21:22:49+01:00
 draft: false
+type: "howtojoin"
 ---
 
 

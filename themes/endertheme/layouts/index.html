@@ -1,5 +1,8 @@
 {{ partial "header.html" . }}
 
+<a href="{{ .Site.BaseURL }}"><button class="selected">About</button></a>
+<a href="{{ .Site.BaseURL }}/howtojoin"><button>How to Join</button></a>
+<a href="{{ .Site.BaseURL }}/pastevents"><button>Past Events</button></a> 
 <section id=content class=posts_listing>
  {{ .Content }}
 </section>

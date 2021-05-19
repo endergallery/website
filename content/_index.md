@@ -6,48 +6,38 @@ draft: false
 
 Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft. 
 
-
 ## About the residency
 
 Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming! We have four residencies planned for 2021, featuring Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
-## Upcoming Events
+## Current Exhibition
 
 <img src="/Cat_Haines_exhibition_flyer.jpg" alt="Flyer for the (g)Ender Gallery opening, showing the entrance to the art gallery/reconstruction of Haines's vulva and vagina in Minecraft in front of a pink sunset, with exhibition opening details in text superimposed" class="full">
 
-### Exhibition Opening : May 8 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
-
-Please join us for our first exhibition opening, as well as our first live event on the server!
-
 (g)Ender Gallery is a solo exhibition of the work of Cat Haines, developed during her residency on the Ender Gallery Minecraft server. Combining photography, poetry, and monumental Minecraft builds, (g)Ender Gallery explores the platform’s potential for queer and trans intimacies. The exhibition is a playful transfeminist intervention into yonic art canon that uses worldbuilding as a means of trans agency. The body of work features a colossal reconstruction of the artist’s surgically-constructed vagina that contains a gallery of text and images that reflect upon moments of her transition. The project investigates the affordances of the Minecraft platform to reject a cisgender reading of transition, through recentering narratives of trans joy.
-
-On Saturday May 8, at 1:00 pm Regina-time and 9:00 pm Berlin-time, ee will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts. It will also be open for live guests to join us in Minecraft. In order to join in-game, attendees will need a licensed copy of Minecraft (Java edition)
-
-<a href="https://ender.gallery/howtojoin">HOW TO JOIN THE SERVER</a>
-
-## Past Events
-
-### Open Studio : April 15 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
-
-<iframe class="full video" src="https://www.youtube.com/embed/5XgDd22vmnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-On April 15, join Cat Haines and a special guest, Evie Ruddy, for a livestreamed open studio event where they will engage in an intimate conversation inside Haines’ Minecraft exhibit. Drawing on their art practices and scholarly work, Cat Haines and Evie Ruddy will discuss transfeminist and bodily interventions into second wave feminist theory, how each conceives of audience in their work, ways of disrupting cisnormative visual logics, and the role of affect in relation to desire. 
-
-Evie Ruddy (they/them) ([@eviejohnny](https://twitter.com/eviejohnny)) is a socially engaged digital storyteller and PhD student in Cultural Mediations at Carleton University. As a PhD Fellow with Carleton’s Transgender Media Lab, Evie is helping to develop an online database of audiovisual works made by transgender, non-binary, Two Spirit, intersex, and gender non-conforming filmmakers. Evie is also researching the ethics of documenting trans bodies. They are particularly interested in the role of improvisation for fostering productive spaces for trans collaborators to exercise agency over how they are represented.
-
-<iframe class="full video" src="https://www.youtube.com/embed/NXfuRPeBMY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Open Studio : March 31 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
-
-Ender Gallery is pleased to invite you to join our first public event! On International Trans Day of Visibility (Wednesday, March 31), join current resident Cat Haines and the Ender curators for a livestreamed open studio event where Haines will discuss her work in progress. 
 
 ## Current Resident
 
-<img src="/Cat_Haines_Trans_Flag.png" alt="Screenshot of the Minecraft avatar of Cat Haines standing in front of a large trans flag built in Minecraft" class="full">
+<p class="above-caption">
+  <img src="/Simon_computer_circa1995.jpg" alt="Old photo of Simon M Benedict playing the video game Dune on a crtc monitor as a child" class="full">
+</p>
+<p class="caption">Simon M. Benedict circa 1995, playing strategy video game Dune (1992)</p>
 
-Cat Haines (she/her) is a white genderqueer trans woman and dyke living on Treaty 4 Territory in Regina, SK. When she isn't playing Minecraft, Cat can be found pursuing a Master's degree in Women and Gender Studies at the University of Regina, with a thesis focusing on transmisogyny. Cat's artistic and academic projects often center and explore her gender, body, and subjectivities through queer, trans, and autotheoretical lenses.
+Simon M. Benedict is an artist and translator of Franco-Québécois and Abenaki descent working with video, sound, still images, and text. He combines audiovisual material from various archives to examine how fictional and historical narratives inform and stem from our understanding of unmediated reality.
 
-Throughout her residency, Cat will be exploring the public consumption of trans women's bodies and genitals through a large scale Minecraft installation of her surgically constructed vagina and vulva. The project is meant to act as an ironic transfeminist intervention into the oftentimes cissexist construction of womanhood through feminist pussy art, as well as explore the possibility of queer and trans intimacies in digital spaces.
+Recently, his video work has focused on depictions of Indigenous people in media made by and intended for non-Indigenous people. After spending much time and energy researching these harmful portrayals, he is relieved and excited to be doing something more positive and potentially healing within the context of Ender Gallery. During his residency time, Simon will be creating an environment inspired by “Kinaw8la – She Takes Care of You”, a booklet co-authored by Donna O’Bomsawin and Evelyne Benedict about native and non-native medicinal plants currently found on Odanak Abenaki territory.
+
+Simon lives and works in what is now known as Toronto, the traditional territory of the Mississaugas of the Credit, the Anishinaabe, the Haudenosaunee, and the Wendat. He hopes that this residency project will allow him to reflect on the spirit of the territory’s Dish with One Spoon treaty, which is based in the collective care and sharing of land and resources, and extends to all people living here today.
+
+## Upcoming Events
+
+<img src="/Cat_Haines_Ender_Gallery_Tour_Image_02.png" alt="Screenshot from the exhibition opening of (g)Ender Gallery, showing the avatar of Cat Haines wearing a red dress standing in front of the residency center" class="full">
+
+### Exhibition Walk Through : May 22 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
+
+Join artist Cat Haines, Saturday, May 22 1:00 pm CST (3:00 pm EST, 9:00 pm CEST), for a tour of her exhibition (g)Ender Gallery. Combining photography, poetry, and monumental pixel builds, Ender Gallery’s inaugural resident Cat Haines opens the Minecraft exhibition space with a playful transfeminist intervention. Exploring the platform’s potential for queer and trans intimacies, Haines’s (g)Ender Gallery features a colossal reconstruction of the artist’s surgically-constructed vagina that contains text and images reflecting upon her transition. ⁠
+⁠
+The tour will be conducted on Zoom. Audience members do not need a Minecraft license to participate in the tour. This event requires prior registration to attend; you can sign up <a href="https://zoom.us/meeting/register/tJUoceygqzMiHdQAb_S9TFbhhuY9-MAPIZ7T">here!</a>
 
 ## Partners
 
