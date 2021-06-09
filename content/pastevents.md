@@ -7,7 +7,13 @@ type: "pastevents"
 
 ## Past Events
 
-<img src="/Cat_Haines_exhibition_flyer.jpg" alt="Flyer for the (g)Ender Gallery opening, showing the entrance to the art gallery/reconstruction of Haines's vulva and vagina in Minecraft in front of a pink sunset, with exhibition opening details in text superimposed" class="full">
+<img src="/Cat_Haines_Ender_Gallery_Tour_Image_02.png" alt="Screenshot from the exhibition opening of (g)Ender Gallery, showing the avatar of Cat Haines wearing a red dress standing in front of the residency center" class="full">
+
+### Exhibition Walk Through : May 22 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
+
+Join artist Cat Haines, Saturday, May 22 1:00 pm CST (3:00 pm EST, 9:00 pm CEST), for an artist talk and tour of her exhibition (g)Ender Gallery.
+
+<iframe class="full video" src="https://www.youtube.com/embed/cYVkEs5WKBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Exhibition Opening : May 8 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
 
@@ -15,7 +21,7 @@ Please join us for our first exhibition opening, as well as our first live event
 
 (g)Ender Gallery is a solo exhibition of the work of Cat Haines, developed during her residency on the Ender Gallery Minecraft server. Combining photography, poetry, and monumental Minecraft builds, (g)Ender Gallery explores the platform’s potential for queer and trans intimacies. The exhibition is a playful transfeminist intervention into yonic art canon that uses worldbuilding as a means of trans agency. The body of work features a colossal reconstruction of the artist’s surgically-constructed vagina that contains a gallery of text and images that reflect upon moments of her transition. The project investigates the affordances of the Minecraft platform to reject a cisgender reading of transition, through recentering narratives of trans joy.
 
-On Saturday May 8, at 1:00 pm Regina-time and 9:00 pm Berlin-time, ee will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts. It will also be open for live guests to join us in Minecraft. In order to join in-game, attendees will need a licensed copy of Minecraft (Java edition)
+On Saturday May 8, at 1:00 pm Regina-time and 9:00 pm Berlin-time, we will stream simulataneously to Haines's [personal twitch](twitch.tv/cat_moondyke), and the Mackenzie Art Gallery's social media, including its Facebook, [YouTube](https://www.youtube.com/channel/UCm4xcsr3OMSuCxkdXRi0vZQ) and [Twitch](https://www.twitch.tv/mackenzieartgallery) accounts. It will also be open for live guests to join us in Minecraft. In order to join in-game, attendees will need a licensed copy of Minecraft (Java edition)
 
 ### Open Studio : April 15 7:00 pm CST (6:00 pm EST, 3:00 am CEST)
 
