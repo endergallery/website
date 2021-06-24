@@ -31,22 +31,6 @@ Recently, his video work has focused on depictions of Indigenous people in media
 
 Simon lives and works in what is now known as Toronto, the traditional territory of the Mississaugas of the Credit, the Anishinaabe, the Haudenosaunee, and the Wendat. He hopes that this residency project will allow him to reflect on the spirit of the territory’s Dish with One Spoon treaty, which is based in the collective care and sharing of land and resources, and extends to all people living here today.
 
-## Upcoming Events
-
-<img src="/dance-party.jpg" alt="Flyer for the pack the pussy dance party, with the words queen city pride, DANCE PARTY, (g)Ender Gallery in front of the trans flag built in Minecraft" class="full">
-
-### Pack the Pussy : June 09 7:00-10:00 pm CST (8:00-11:00 pm EST, 2:00-5:00 am CEST)
-
-Join us, Cat Haines, the Mackenzie Art Gallery, and [Queen City Pride](https://queencitypride.ca/) this Thursday, June 10 from 7PM-9PM CST (Regina time) for Pack the Pussy, a virtual dance party inside the (g)Ender Gallery Exhibition!
-
-To attend the live dance party in Minecraft, you will need a licensed account for Minecraft Java edition. Check here for [how to join](https://ender.gallery/howtojoin) If you would like to attend in-game but don’t have Minecraft Java, contact cbluemke@mackenzie.art. As always, we will also livestream through the MacKenzie’s Facebook, YouTube, and Twitch streams!
-
-Music by:
-
-Ariana Giroux is your local angry trans woman out there making waves and throwing bricks! Working out of a home studio on Treaty 4 Territory, Ariana works every day to carve out a better world for people of many intersections. She uses her music to celebrate queerness and provide catharsis for those members of the 2SLGBTQIA+ community who need it. Her music spans topics from “its rad to be queer” to describing how it feels to be victimized by complex transphobia and queerphobia. Working with a dizzying array of hardware synthesizers and samplers, her work is almost entirely improvisational house and downbeat electronica meant to groove and find yourself in. [bandcamp](https://eclecticmedia.bandcamp.com)
-
-Using spectral analysis, various forms of synthesis, computer assisted composition techniques, and a penchant for chaos, Mutable Body constructs hyper-real soundscapes. These otherworldly planes exist as bridges between the realms of acousmatic perception, simulation, and parallel realities. [bandcamp](https://mutablebody.bandcamp.com/)
-
 ## Partners
 
 <img src="/MAG_Logo.png" alt="Mackenzie Art Gallery logo" class="partner">
