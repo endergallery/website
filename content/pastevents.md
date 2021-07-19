@@ -7,6 +7,14 @@ type: "pastevents"
 
 ## Past Events
 
+### Exhibition Opening : July 10 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
+
+<img src="/Simon_M_Benedict_exhibition_flyer.jpg" alt="Flyer for the Odanak - At the Village opening, showing the health center of the community, and the medicinal plants that have been added to the game" class="full">
+
+Presenting Odanak - At the Village, a solo exhibition by Simon M. Benedict. 
+
+In recent years, Simon’s video work has focused on the depiction of Indigenous people in media made by and intended for non-Indigenous people. After spending much time and energy researching these harmful portrayals, he was relieved and excited to be working on something more positive and potentially healing within the context of Ender Gallery. At the beginning of this residency, he planned to make an installation inspired by his sister Evelyne Benedict’s work in their family's ancestral community of Odanak. He initially set out to create a medicinal garden based on a guide Evelyne co-authored with Donna O’Bomsawin entitled “Kinaw8la – She Takes Care of You”, an educational booklet on medicinal plants – both native and non-native – currently present on Odanak Abenaki territory. In the wake of recent conversations and news stories regarding the Canadian residential school system, Simon’s residency project, titled Odanak – At the Village, also attempts to reckon with the country’s ongoing colonial project as it pertains to the Abenaki people. It now includes architectural elements that echo this history, as well as contemporary buildings that serve to educate and heal.
+
 ### Open Studio : June 19 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
 
 Join Simon M. Benedict for an hour of conversation inside his evolving body of work. Benedict's current project customizes the Minecraft platform to reflect a contemporary Abenaki experience. Referencing real world sites and traditions, Benedict's projects reflect upon connection, community, and representation in the digital sphere. 
