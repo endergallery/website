@@ -14,7 +14,7 @@ Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated 
 
 ### Ender Gallery x Amaze : July 24 11:30 am CST (12:30 am EST, 5:30 pm CEST)
 
-Ender Gallery is pleased to join the livestream with friends at [A MAZE. / Berlin](https://2021.amaze-berlin.de/)! The conversation will feature short the first and third artists-in-residence, Cat Haines, and Huidi Xiang, for a tour through their projects, in dialogue with the Ender Gallery curators, Cat Bluemke, Jonathan Carroll, and Sarah Friend. 
+Ender Gallery is pleased to join the livestream with friends at [A MAZE. / Berlin](https://2021.amaze-berlin.de/)! The conversation will feature short presentations from the first and third artists-in-residence, Cat Haines, and Huidi Xiang, in dialogue with the Ender Gallery curators, Cat Bluemke, Jonathan Carroll, and Sarah Friend. 
 
 ## Current Exhibition
 
