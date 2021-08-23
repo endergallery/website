@@ -12,9 +12,15 @@ Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated 
 
 ## Upcoming Events
 
-### Ender Gallery x Amaze : July 24 11:30 am CST (12:30 am EST, 5:30 pm CEST)
+### Ender Gallery x Mutek : Jane's Walk Minecraft : Aug 27 1:30 pm CST (2:30 pm EST, 8:30 pm CEST)
 
-Ender Gallery is pleased to join the livestream with friends at [A MAZE. / Berlin](https://2021.amaze-berlin.de/)! The conversation will feature short presentations from the first and third artists-in-residence, Cat Haines, and Huidi Xiang, in dialogue with the Ender Gallery curators, Cat Bluemke, Jonathan Carroll, and Sarah Friend. 
+Considering the role of a server as “place,” this workshop will be a Jane’s Walk through the expansive procedurally generated world of Minecraft. Ender Gallery curators Cat Bluemke, Jonathan Carroll, and Sarah Friend will begin in an NPC village, meeting the residents and studying their built environment to consider how they are affected by the player’s interventions. The tour then moves into the biomes of the Minecraft server and examines the colonialist and extractive concepts lurking behind the game’s mechanics. The tour will expand beyond the edges of Minecraft gameplay, travelling to its farthest corners to pry into the bits and backend of the server.
+
+The project is informed by Jane Jacob’s approach to considering spaces and the bodies that dwell within them. It is inspired by the application of this approach into digital spaces and their representations—notably, by Leonhard Müllner and Robin Klengel’s 2018 Operation Jane Walk. Minecraft Jane’s Walk will investigate Minecraft as a material artifact and social space, and its potential for artistic interventions.
+
+### Ender Gallery x Mutek : CASE STUDY: Ender Gallery: Artistic Investigations of the Game Minecraft : Sept 2 1:45 pm CST (2:45 pm EST, 8:45 pm CEST)
+
+Join Huidi Xiang and Travess Smalley — the third and fourth artists-in-residence at Ender Gallery — for a tour through their projects, in conversation with curators Cat Bluemke and Jonathan Carroll. Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft, established in January 2021 in partnership with the Mackenzie Art Gallery in Regina, Saskatchewan. As many festivals and art institutions moved their programming online over the last year, Ender Gallery is an experiment in taking the idea of online "places" and their unique affordance seriously.
 
 ## Current Exhibition
 

@@ -7,6 +7,18 @@ type: "pastevents"
 
 ## Past Events
 
+### Cat Haines x Interaccess x Vector Festival : Cyborg Bodies // Minecraft Creations : Aug 2 1:00 pm CST (2:00 pm EST, 8:00 pm CEST)
+
+Part feminist theory, part artist talk, and part technical workshop—this session explores how we can use Minecraft to transform our social and material realities to create new bodily possibilities. This workshop will specifically explore how to create a resource pack in Minecraft that renames and retextures a block to create new possibilities within the game as an artistic medium. We will explore how we can use this technique to (literally) re-skin blocks with textures from our own bodies, and name or rename these body parts as a form of social and linguistic intervention and to signal our lived realities.
+
+### Ender Gallery x Interaccess x Vector Festival : Jane's Walk Minecraft : July 31 1:00 pm CST (2:00 pm EST, 8:00 pm CEST)
+
+Inspired by Operation Jane Walk, Leonhard Müllner and Robin Klengel’s 2018 machinima that took participants on a Jane’s Walk through New York via the video game 'Tom Clancy's The Division’, this workshop will be a walk through the expansive procedurally generated world of Minecraft. Taking seriously the idea of server as “place”, Ender Gallery curators Cat Bluemke, Jonathan Carroll, and Sarah Friend will begin in a village, meeting the resident NPCs and examining their built environment, considering how they are affected by the player’s interventions. The tour then moves into the biomes of the Minecraft server, examining colonialist and extractive concepts that lurk behind the game’s mechanics. But this tour won’t stop at the edges of gameplay: eventually, we will travel to the farthest corners of Minecraft’s seemingly infinite space, and then past it, to look directly at the bits of the world and backend of the server.
+
+### Ender Gallery x Amaze : July 24 11:30 am CST (12:30 am EST, 5:30 pm CEST)
+
+Ender Gallery is pleased to join the livestream with friends at [A MAZE. / Berlin](https://2021.amaze-berlin.de/)! The conversation will feature short presentations from the first and third artists-in-residence, Cat Haines, and Huidi Xiang, in dialogue with the Ender Gallery curators, Cat Bluemke, Jonathan Carroll, and Sarah Friend. 
+
 ### Exhibition Opening : July 10 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
 
 <img src="/Simon_M_Benedict_exhibition_flyer.jpg" alt="Flyer for the Odanak - At the Village opening, showing the health center of the community, and the medicinal plants that have been added to the game" class="full">
