@@ -7,6 +7,16 @@ type: "pastevents"
 
 ## Past Events
 
+### Ender Gallery x Mutek : Jane's Walk Minecraft : Aug 27 1:30 pm CST (2:30 pm EST, 8:30 pm CEST)
+
+Considering the role of a server as “place,” this workshop will be a Jane’s Walk through the expansive procedurally generated world of Minecraft. Ender Gallery curators Cat Bluemke, Jonathan Carroll, and Sarah Friend will begin in an NPC village, meeting the residents and studying their built environment to consider how they are affected by the player’s interventions. The tour then moves into the biomes of the Minecraft server and examines the colonialist and extractive concepts lurking behind the game’s mechanics. The tour will expand beyond the edges of Minecraft gameplay, travelling to its farthest corners to pry into the bits and backend of the server.
+
+The project is informed by Jane Jacob’s approach to considering spaces and the bodies that dwell within them. It is inspired by the application of this approach into digital spaces and their representations—notably, by Leonhard Müllner and Robin Klengel’s 2018 Operation Jane Walk. Minecraft Jane’s Walk will investigate Minecraft as a material artifact and social space, and its potential for artistic interventions.
+
+### Ender Gallery x Mutek : CASE STUDY: Ender Gallery: Artistic Investigations of the Game Minecraft : Sept 2 1:45 pm CST (2:45 pm EST, 8:45 pm CEST)
+
+Join Huidi Xiang and Travess Smalley — the third and fourth artists-in-residence at Ender Gallery — for a tour through their projects, in conversation with curators Cat Bluemke and Jonathan Carroll. Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft, established in January 2021 in partnership with the Mackenzie Art Gallery in Regina, Saskatchewan. As many festivals and art institutions moved their programming online over the last year, Ender Gallery is an experiment in taking the idea of online "places" and their unique affordance seriously.
+
 ### Cat Haines x Interaccess x Vector Festival : Cyborg Bodies // Minecraft Creations : Aug 2 1:00 pm CST (2:00 pm EST, 8:00 pm CEST)
 
 Part feminist theory, part artist talk, and part technical workshop—this session explores how we can use Minecraft to transform our social and material realities to create new bodily possibilities. This workshop will specifically explore how to create a resource pack in Minecraft that renames and retextures a block to create new possibilities within the game as an artistic medium. We will explore how we can use this technique to (literally) re-skin blocks with textures from our own bodies, and name or rename these body parts as a form of social and linguistic intervention and to signal our lived realities.
@@ -21,7 +31,7 @@ Ender Gallery is pleased to join the livestream with friends at [A MAZE. / Berli
 
 ### Exhibition Opening : July 10 1:00 pm CST (3:00 pm EST, 9:00 pm CEST)
 
-<img src="/Simon_M_Benedict_exhibition_flyer.jpg" alt="Flyer for the Odanak - At the Village opening, showing the health center of the community, and the medicinal plants that have been added to the game" class="full">
+<iframe class="full video" src="https://www.youtube.com/embed/Nk4VTNglkpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Presenting Odanak - At the Village, a solo exhibition by Simon M. Benedict. 
 
