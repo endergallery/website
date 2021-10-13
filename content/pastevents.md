@@ -7,6 +7,14 @@ type: "pastevents"
 
 ## Past Events
 
+### Exhibition Opening : Sept 11 12:00 pm CST (2:00 pm EST, 8:00 pm CEST)
+
+<img src="/Huidi_Xiang_Exhibition_flyer.jpg" alt="Flyer for the How to be an artist in minecraft opening, showing the lineup of all the work tables, including the artist data table, that has been added to the game" class="full">
+
+Please join us Saturday for our third exhibition opening, on livestream and on the server!
+
+Presenting How to be an artist in Minecraft, a solo exhibition by Huidi Xiang. During her residency time, Xiang created replicas of her artist studio (both physically and in Animal Crossing) and attempted to live a parallel artist life in Minecraft. Taking on the role of an artist-labourer in the game, she also kept a detailed log of her every activity on the server for the residency period, creating a visual data record or ledger for the increasingly overlapping contexts of play and labour in video games - as well as serving to concretize her labour as an artist.
+
 ### Ender Gallery x Mutek : Jane's Walk Minecraft : Aug 27 1:30 pm CST (2:30 pm EST, 8:30 pm CEST)
 
 Considering the role of a server as “place,” this workshop will be a Jane’s Walk through the expansive procedurally generated world of Minecraft. Ender Gallery curators Cat Bluemke, Jonathan Carroll, and Sarah Friend will begin in an NPC village, meeting the residents and studying their built environment to consider how they are affected by the player’s interventions. The tour then moves into the biomes of the Minecraft server and examines the colonialist and extractive concepts lurking behind the game’s mechanics. The tour will expand beyond the edges of Minecraft gameplay, travelling to its farthest corners to pry into the bits and backend of the server.
