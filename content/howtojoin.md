@@ -10,7 +10,7 @@ type: "howtojoin"
 
 You will need a licensed copy of Minecraft Java edition and the login details for your Minecraft account. 
 
-Open the minecraft launcher, and verify that you are running the latest release, 1.16.5
+Open the minecraft launcher, and verify that you are running the latest release, 1.17.1
 
 <img src="/How-to-Join-01.png" alt="Flyer for the (g)Ender Gallery opening, showing the entrance to the art gallery/reconstruction of Haines's vulva and vagina in Minecraft in front of a pink sunset, with exhibition opening details in text superimposed" class="full">
 
