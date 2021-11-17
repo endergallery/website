@@ -7,6 +7,18 @@ type: "pastevents"
 
 ## Past Events
 
+### Closing the Open Studio: a Minecraft performance by Huidi Xiang
+
+<img src="/huidi-performance-flyer.jpg" alt="Flyer for the Closing the Open Studio, showing the title text in front of an extreme yellow building" class="full">
+
+Oct 16th 12-1pm CST (Regina time) 2-3 pm EST (Toronto time) 8-9 pm CEST (Berlin time)
+
+In “How to Be an Artist in Minecraft,” Ender Gallery artist-in-residence Huidi Xiang @huidixiang considered what it means to be a working artist within a game designed for play. Examining the affordances, limitations and expectations of creative work on the Minecraft platform, Xiang has developed the persona of the “artist villager.” Inside the exhibition on October 16th, from 12-1pm CST, Xiang will interact with audience members as the artist villager persona, proposing a model for a non-player character that challenges the creative supremacy of the player. In this “closing studio” event, Xiang will initiate the process of deconstructing her studio/exhibition on the Ender Gallery server and start to restore the server back to its original state. Through the performance of the very act of de-installation, Xiang invites the audience to contemplate the idea of maintenance, deconstruction, and restoration in a digital context.
+
+In order to experience the performance first-hand on the Minecraft platform, you will require a licensed copy of the Java edition of the game and a corresponding Minecraft account to join the server. Please contact cbluemke@mackenzie.art if you would like to join in-server but do not have an account. Instruction on how to join are available at www.ender.gallery/howtojoin
+
+The performance will also be livestreamed to the MacKenzie Art Gallery’s social media, including its Facebook, YouTube, and Twitch accounts, which are viewable without a Minecraft account.
+
 ### Exhibition Opening : Sept 11 12:00 pm CST (2:00 pm EST, 8:00 pm CEST)
 
 <img src="/Huidi_Xiang_Exhibition_flyer.jpg" alt="Flyer for the How to be an artist in minecraft opening, showing the lineup of all the work tables, including the artist data table, that has been added to the game" class="full">
