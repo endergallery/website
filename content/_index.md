@@ -10,15 +10,15 @@ Ender Gallery is an exhibition space and artist residency that exists inside the
 
 Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming! We have four residencies planned for 2021, featuring Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
-## Current Exhibition
+## Upcoming Events
 
-<img src="/Huidi_Xiang_Exhibition_flyer.jpg" alt="Flyer for the How to be an artist in minecraft opening, showing the lineup of all the work tables, including the artist data table, that has been added to the game" class="full">
+### Exhibition Opening : Nov 20 12:00 pm CST (2:00 pm EST, 8:00 pm CEST)
 
-Presenting How to be an artist in Minecraft, a solo exhibition by Huidi Xiang. During her residency time, Xiang created replicas of her artist studio (both physically and in Animal Crossing) and attempted to live a parallel artist life in Minecraft. Taking on the role of an artist-labourer in the game, she also kept a detailed log of her every activity on the server for the residency period, creating a visual data record or ledger for the increasingly overlapping contexts of play and labour in video games - as well as serving to concretize her labour as an artist.
+<img src="/travess_smalley_flyer.jpg" alt="Flyer for the Chance Language Resource Pack opening, showing the an underwater scene full of the words feel and ghosts" class="full">
+
+Presenting Change Language Resource Pack, a solo exhibition by Travess Smalley. During his residency, Smalley has been developing a texture pack where the images and textures present in the game are replaced with randomly generated language. The result is a surreal reading experience, reminiscent of a concrete poem, that turns the familiar Minecraft world into an abstract, austere, and newly dangerous place (be careful identifying lava!). As a companion to the exhibition, Smalley will also be releasing the full resource pack for at-home players as well
 
 [HOW TO JOIN THE SERVER](https://ender.gallery/howtojoin) -->
-
-[SPREADSHEET LINK](https://docs.google.com/spreadsheets/d/1QVUdDbGz31yEr3xs3o6BI6lNIZ8otA0ySJGNUtb2yLY/edit#gid=0) -->
 
 ## Current Resident
 

@@ -7,6 +7,14 @@ type: "pastexhibitions"
 
 ## Past Exhibitions
 
+### How to be an artist in Minecraft by Huidi Xiang
+
+<img src="/Huidi_Xiang_Exhibition_flyer.jpg" alt="Flyer for the How to be an artist in minecraft opening, showing the lineup of all the work tables, including the artist data table, that has been added to the game" class="full">
+
+How to be an artist in Minecraft is a solo exhibition by Huidi Xiang. During her residency time, Xiang created replicas of her artist studio (both physically and in Animal Crossing) and attempted to live a parallel artist life in Minecraft. Taking on the role of an artist-labourer in the game, she also kept a detailed log of her every activity on the server for the residency period, creating a visual data record or ledger for the increasingly overlapping contexts of play and labour in video games - as well as serving to concretize her labour as an artist.
+
+[SPREADSHEET LINK](https://docs.google.com/spreadsheets/d/1QVUdDbGz31yEr3xs3o6BI6lNIZ8otA0ySJGNUtb2yLY/edit#gid=0) -->
+
 ### Odanak- At the Village by Simon M. Benedict
 
 <img src="/Simon_M_Benedict_exhibition_flyer.jpg" alt="Flyer for the Odanak - At the Village opening, showing the health center of the community, and the medicinal plants that have been added to the game" class="full">
