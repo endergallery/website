@@ -10,9 +10,7 @@ Ender Gallery is an exhibition space and artist residency that exists inside the
 
 Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming! We have four residencies planned for 2021, featuring Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
-## Upcoming Events
-
-### Exhibition Opening : Nov 20 12:00 pm CST (2:00 pm EST, 8:00 pm CEST)
+## Current Exhibition
 
 <img src="/travess_smalley_flyer.jpg" alt="Flyer for the Chance Language Resource Pack opening, showing the an underwater scene full of the words feel and ghosts" class="full">
 

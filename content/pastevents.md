@@ -7,6 +7,12 @@ type: "pastevents"
 
 ## Past Events
 
+### Exhibition Opening : Nov 20 12:00 pm CST (2:00 pm EST, 8:00 pm CEST)
+
+<img src="/travess_smalley_flyer.jpg" alt="Flyer for the Chance Language Resource Pack opening, showing the an underwater scene full of the words feel and ghosts" class="full">
+
+Presenting Change Language Resource Pack, a solo exhibition by Travess Smalley. During his residency, Smalley has been developing a texture pack where the images and textures present in the game are replaced with randomly generated language. The result is a surreal reading experience, reminiscent of a concrete poem, that turns the familiar Minecraft world into an abstract, austere, and newly dangerous place (be careful identifying lava!). As a companion to the exhibition, Smalley will also be releasing the full resource pack for at-home players as well
+
 ### Closing the Open Studio: a Minecraft performance by Huidi Xiang
 
 <img src="/huidi-performance-flyer.jpg" alt="Flyer for the Closing the Open Studio, showing the title text in front of an extreme yellow building" class="full">
