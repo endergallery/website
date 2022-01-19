@@ -10,6 +10,14 @@ Ender Gallery is an exhibition space and artist residency that exists inside the
 
 Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming! We have four residencies planned for 2021, featuring Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
+## Upcoming Events
+
+### A Minecraft ride towards World Border : Jan 22 12:00 pm CST (1:00 pm EST, 7:00 pm CEST)
+
+<img src="/journey-to-world-border.png" alt="Flyer for the Minecraft journey towards World Border event, showing the event title and a pink-toned image of a minecart track" class="full">
+
+Join us this Saturday for the last event from our programming year - a journey with @travess by minecart to world border, which is the outer extreme of Minecraft's procedurally-generated terrain. As always, this will be livestreamed on the Mackenzie Art Gallery's twitch channel, instagram, and facebook pages!
+
 ## Current Exhibition
 
 <img src="/travess_smalley_flyer.jpg" alt="Flyer for the Chance Language Resource Pack opening, showing the an underwater scene full of the words feel and ghosts" class="full">
