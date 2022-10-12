@@ -12,7 +12,7 @@ A retrospective text about the four exhibitions is published on [BlackFlash Expa
 
 As a form of of documentation, we're releasing the custom resource packs created by the four Ender Gallery residents as one bundle: a resource pack pack. If you download the pack, you can view any of these assets into your local Minecraft games. Here is a [tutorial on how to install them](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)
 
-<img src="/packcube.png" alt="A cube-shaped Minecraft block, skinned as grass but with the textures in the wrong alignment" class="partner">
+<a href="/Ender-Gallery-Resource-Pack-Pack.zip"><img src="/packcube-text.png" alt="A cube-shaped Minecraft block, skinned as grass but with the textures in the wrong alignment" class="partner"></a>
 
 ## About us
 
