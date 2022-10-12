@@ -4,31 +4,19 @@ date: 2020-12-16T21:22:49+01:00
 draft: false
 ---
 
-Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft. 
+Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft. Throughout 2021, we hosted four residencies and exhibitions, featuring artists Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
-## About the residency
+A retrospective text about the four exhibitions is published on [BlackFlash Expanded](https://needslink.com) and there is photo documentation on our [instagram](https://www.instagram.com/endergallery/). We are also pleased to release our 2021 Resource Pack Pack.
 
-Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll, Ender Gallery is excited to host our first run of programming! We have four residencies planned for 2021, featuring Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
+## Resource Pack Pack
 
-## Upcoming Events
+As a form of of documentation, we're releasing the custom resource packs created by the four Ender Gallery residents as one bundle: a resource pack pack. If you download the pack, you can view any of these assets into your local Minecraft games. Here is a [tutorial on how to install them](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)
 
-### A Minecraft ride towards World Border : Jan 22 12:00 pm CST (1:00 pm EST, 7:00 pm CEST)
+<img src="/packcube.png" alt="A cube-shaped Minecraft block, skinned as grass but with the textures in the wrong alignment" class="partner">
 
-<img src="/journey-to-world-border.png" alt="Flyer for the Minecraft journey towards World Border event, showing the event title and a pink-toned image of a minecart track" class="full">
+## About us
 
-Join us this Saturday for the last event from our programming year - a journey with @travess by minecart to world border, which is the outer extreme of Minecraft's procedurally-generated terrain. As always, this will be livestreamed on the Mackenzie Art Gallery's twitch channel, instagram, and facebook pages!
-
-## Current Exhibition
-
-<img src="/travess_smalley_flyer.jpg" alt="Flyer for the Chance Language Resource Pack opening, showing the an underwater scene full of the words feel and ghosts" class="full">
-
-Presenting Change Language Resource Pack, a solo exhibition by Travess Smalley. During his residency, Smalley has been developing a texture pack where the images and textures present in the game are replaced with randomly generated language. The result is a surreal reading experience, reminiscent of a concrete poem, that turns the familiar Minecraft world into an abstract, austere, and newly dangerous place (be careful identifying lava!). As a companion to the exhibition, Smalley will also be releasing the full resource pack for at-home players as well
-
-[HOW TO JOIN THE SERVER](https://ender.gallery/howtojoin) -->
-
-## Current Resident
-
-Travess Smalley is an artist working with computation to make generative image systems. Smalley is interested in painting software, chance, computer graphics,  and drawing. His artwork is represented by Foxy Production in New York and he is currently teaching and studying towards a MFA in Digital + Media at Rhode Island School of Design. Smalley has exhibited and lectured on his generative image making practice widely and internationally since 2008, including a lecture at the Bibliothèque Kandinsky - Centre Pompidou in Paris during spring 2016 about his ongoing series of self-published print-on-demand books. Smalley’s artwork is also in the permanent collections of the High Museum of Art and Hood Museum of Art. His work has been shown at institutions including the Museum of Contemporary Art Detroit, Kunsthal Rotterdam, and International Center of Photography, New York City.
+Partnering with the [MacKenzie Art Gallery](https://mackenzie.art/) and curated by Sarah Friend, Cat Bluemke, and Jonathan Carroll.
 
 ## Partners
 

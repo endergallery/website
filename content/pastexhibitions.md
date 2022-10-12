@@ -5,9 +5,15 @@ draft: false
 type: "pastexhibitions"
 ---
 
-## Past Exhibitions
+# Past Exhibitions
 
-### How to be an artist in Minecraft by Huidi Xiang
+## Change Language Resource Pack by Travess Smalley
+
+<img src="/travess_smalley_flyer.jpg" alt="Flyer for the Chance Language Resource Pack opening, showing the an underwater scene full of the words feel and ghosts" class="full">
+
+Presenting Change Language Resource Pack, a solo exhibition by Travess Smalley. During his residency, Smalley has been developing a texture pack where the images and textures present in the game are replaced with randomly generated language. The result is a surreal reading experience, reminiscent of a concrete poem, that turns the familiar Minecraft world into an abstract, austere, and newly dangerous place (be careful identifying lava!). As a companion to the exhibition, Smalley will also be releasing the full resource pack for at-home players as well
+
+## How to be an artist in Minecraft by Huidi Xiang
 
 <img src="/Huidi_Xiang_Exhibition_flyer.jpg" alt="Flyer for the How to be an artist in minecraft opening, showing the lineup of all the work tables, including the artist data table, that has been added to the game" class="full">
 
@@ -15,7 +21,7 @@ How to be an artist in Minecraft is a solo exhibition by Huidi Xiang. During her
 
 [SPREADSHEET LINK](https://docs.google.com/spreadsheets/d/1QVUdDbGz31yEr3xs3o6BI6lNIZ8otA0ySJGNUtb2yLY/edit#gid=0) -->
 
-### Odanak- At the Village by Simon M. Benedict
+## Odanak- At the Village by Simon M. Benedict
 
 <img src="/Simon_M_Benedict_exhibition_flyer.jpg" alt="Flyer for the Odanak - At the Village opening, showing the health center of the community, and the medicinal plants that have been added to the game" class="full">
 
@@ -25,7 +31,7 @@ In recent years, Simon’s video work has focused on the depiction of Indigenous
 
 Simon lives and works in what is now known as Toronto, the traditional territory of the Mississaugas of the Credit, the Anishinaabe, the Haudenosaunee, and the Wendat. This residency project has allowed him to reflect on the spirit of the territory’s Dish with One Spoon treaty, which is based in the collective care and sharing of land and resources that extends to all people living here today.
 
-### (g)Ender Gallery by Cat Haines
+## (g)Ender Gallery by Cat Haines
 
 <img src="/Cat_Haines_exhibition_flyer.jpg" alt="Flyer for the (g)Ender Gallery opening, showing the entrance to the art gallery/reconstruction of Haines's vulva and vagina in Minecraft in front of a pink sunset, with exhibition opening details in text superimposed" class="full">
 
