@@ -6,7 +6,7 @@ draft: false
 
 Ender Gallery is an exhibition space and artist residency that exists inside the game Minecraft. Throughout 2021, we hosted four residencies and exhibitions, featuring artists Cat Haines, Simon M. Benedict, Huidi Xiang, and Travess Smalley.
 
-A retrospective text about the four exhibitions is published on [BlackFlash Expanded](https://needslink.com) and there is photo documentation on our [instagram](https://www.instagram.com/endergallery/). We are also pleased to release our 2021 Resource Pack Pack.
+A retrospective text about the four exhibitions is published on [BlackFlash Expanded](https://blackflash.ca/expanded/minecraft-to-metaverse) and there is photo documentation on our [instagram](https://www.instagram.com/endergallery/). We are also pleased to release our 2021 Resource Pack Pack.
 
 ## Resource Pack Pack
 
